@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<head><meta name="generator" content="Hexo 3.8.0">
+  <meta charset="utf-8">
+  
+  <title>ACP | Hexo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：  铺层类型：C-纯玻璃钢铺层；S-三明治铺层。 铺层厚度：5、10、15、20等。 法线方向：CHAOZUO：朝左、CHAOYOU：朝后、CHAOQIAN：朝前、CHAOHOU：朝后、CHAOSHANG：朝上、CHAOXIA：朝下。//当然还有其他分法。 零部件名称：ZUOCZ1:左上侧罩第">
+<meta property="og:type" content="article">
+<meta property="og:title" content="ACP">
+<meta property="og:url" content="http://yoursite.com/2016/05/25/ACP/index.html">
+<meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：  铺层类型：C-纯玻璃钢铺层；S-三明治铺层。 铺层厚度：5、10、15、20等。 法线方向：CHAOZUO：朝左、CHAOYOU：朝后、CHAOQIAN：朝前、CHAOHOU：朝后、CHAOSHANG：朝上、CHAOXIA：朝下。//当然还有其他分法。 零部件名称：ZUOCZ1:左上侧罩第">
+<meta property="og:locale" content="default">
+<meta property="og:updated_time" content="2016-05-27T23:46:28.742Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="ACP">
+<meta name="twitter:description" content="1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：  铺层类型：C-纯玻璃钢铺层；S-三明治铺层。 铺层厚度：5、10、15、20等。 法线方向：CHAOZUO：朝左、CHAOYOU：朝后、CHAOQIAN：朝前、CHAOHOU：朝后、CHAOSHANG：朝上、CHAOXIA：朝下。//当然还有其他分法。 零部件名称：ZUOCZ1:左上侧罩第">
+  
+    <link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  <link rel="stylesheet" href="/css/style.css">
+  
+
+</head>
+</html>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Hexo</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-ACP" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2016/05/25/ACP/" class="article-date">
+  <time datetime="2016-05-25T12:04:47.000Z" itemprop="datePublished">2016-05-25</time>
+</a>
+    
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      ACP
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <p>1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：</p>
+<ul>
+<li>铺层类型：C-纯玻璃钢铺层；S-三明治铺层。</li>
+<li>铺层厚度：5、10、15、20等。</li>
+<li>法线方向：CHAOZUO：朝左、CHAOYOU：朝后、CHAOQIAN：朝前、CHAOHOU：朝后、CHAOSHANG：朝上、CHAOXIA：朝下。//当然还有其他分法。</li>
+<li>零部件名称：ZUOCZ1:左上侧罩第一部分；</li>
+<li>序号：1、2、3……</li>
+<li>综合命名：CHAOYOU_C10_ZUOCZ1_1</li>
+</ul>
+<p>2、 ACP里面最关键的几个设置，shell的法线和主方向，shell的铺层信息。第1条的命名主要是为了脚本识别信息的方便。通过验证，以上命名通过正则表达式可以顺利实现comp的分类和设置。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">import complex</span><br><span class="line">	db = model.activemodel</span><br><span class="line">    ……</span><br></pre></td></tr></table></figure></p>
+<p>3、检查，对每个方向和铺层信息进行更新和检查。对设置错误的进行调整。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2016/05/25/ACP/" data-id="cju2nqcbx0002ngaplzewhwb7" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2016/06/29/31/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          31
+        
+      </div>
+    </a>
+  
+  
+    <a href="/2016/05/22/Just-for-you/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">Just for you</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+</section>
+        
+          <aside id="sidebar">
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/04/">April 2019</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">June 2018</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/06/">June 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/05/">May 2016</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2019/04/04/hello-world/">Hello World</a>
+          </li>
+        
+          <li>
+            <a href="/2018/06/10/买车注意事项/">买车注意事项</a>
+          </li>
+        
+          <li>
+            <a href="/2018/06/03/如何搞乱一次业主大会/">如何搞乱一次业主大会</a>
+          </li>
+        
+          <li>
+            <a href="/2016/06/29/31/">31</a>
+          </li>
+        
+          <li>
+            <a href="/2016/05/25/ACP/">ACP</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2019 John Doe<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+  <script src="/fancybox/jquery.fancybox.pack.js"></script>
+
+
+<script src="/js/script.js"></script>
+
+  </div>
+</body>
+</html>
