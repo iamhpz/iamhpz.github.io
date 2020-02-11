@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Roem</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-04-05T08:32:33.248Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>iamhpz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/04/04/hello-world/"/>
+    <id>http://yoursite.com/2019/04/04/hello-world/</id>
+    <published>2019-04-04T12:46:46.174Z</published>
+    <updated>2019-04-05T08:32:33.248Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p> let me try！</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>买车注意事项</title>
+    <link href="http://yoursite.com/2018/06/10/%E4%B9%B0%E8%BD%A6%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/"/>
+    <id>http://yoursite.com/2018/06/10/%E4%B9%B0%E8%BD%A6%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/</id>
+    <published>2018-06-10T02:49:39.000Z</published>
+    <updated>2018-06-10T03:48:47.919Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="谈一谈买车的故事"><a href="#谈一谈买车的故事" class="headerlink" title="谈一谈买车的故事"></a>谈一谈买车的故事</h2><ol><li>略</li></ol><h2 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h2><ol><li>提前了解价格和价格组成；厂商指导车价、裸车优惠、购置税、车险、车船税、贷款手续费，贷款额度。</li><li>谈价格时，要对上述需要了解的内容做详细的沟通。</li><li>签订合同的时候，一定要认真的阅读合同。明确车型具体型号、非展车、颜色（内外饰）、费用项，贷款数额、贷款银行、贷款利率，赠送的配置(品牌、型号、数量)，提车时间、以及其他备注条款，以及4S店标准合同上面的格式文本。</li><li>后续流程一定要问清楚。什么时候交车款，什么时候提车，什么时候办理保险，什么时候选牌照，牌照是怎么选的，什么时候上户，什么时候贴膜。</li></ol><hr><ul><li>如果是贷款买车的话，大体流程：缴纳定金后，签订购车协议，然后办理贷款手续，等贷款审核通过后，4S会通知你去缴纳首付，同时验车。等3-5天银行放款给4S店后，4S会帮你挂牌，挂牌后就可以提车了。</li></ul><hr><h2 id="提车注意事项"><a href="#提车注意事项" class="headerlink" title="提车注意事项"></a>提车注意事项</h2><h3 id="提车检查"><a href="#提车检查" class="headerlink" title="提车检查"></a>提车检查</h3><ol><li>检查外观：</li></ol><ul><li>看车保险杆、后视镜等突出的地方是否有剐蹭，全车是否有划痕、检查白膜是否完整。</li><li>检查车身缝隙，保险杆、车门、车身等</li><li>车漆是否刮擦、颜色不均匀，日光下检查。</li><li>胎毛是否整齐浓密、内部装饰是否完好（座椅、中控、方向盘、门窗、遮阳帘等）。</li><li>车门是否有异响。</li><li>是否有水油渍痕迹。</li></ul><ol start="2"><li>检查空调系统：开启空调，按键是否灵活、能否快速制冷</li><li>检查音响系统：USB、收音机、CD有无故障，声音有无瑕疵，导航是否正常</li><li>检查中控仪表显示：一般里程不超过60公里，屏幕显示是否正常</li><li>检查各项电子功能：后视镜调节、座椅调节和加热、记忆、门窗升降、天窗调节等</li><li>检查发动机舱：是否干净、玻璃水、电路系统是否完好、机油、防冻液、刹车液</li><li>检查后备箱：备胎、工具是否完整</li><li>检查底盘：底盘防护、有否擦伤</li><li>点火：看隔音效果，看转速、怠速1000以内，有无异响、发动机怠速是否稳定、发动机有无杂音、胎压是否正常。</li><li>检查车辆出厂日期，车架号，索要出厂日期和运输日期。</li><li>验车后抄里程表。</li></ol><h3 id="车辆交付清单："><a href="#车辆交付清单：" class="headerlink" title="车辆交付清单："></a>车辆交付清单：</h3><ol><li>车钥匙2把</li><li>使用手册一本</li><li>质量担保和保养手册一本</li><li>合格证一张</li><li>一致性车辆证书一张</li><li>购车发票（四联）</li><li>备胎一只</li><li>千斤顶及轮胎扳手</li><li>赠品若干</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;谈一谈买车的故事&quot;&gt;&lt;a href=&quot;#谈一谈买车的故事&quot; class=&quot;headerlink&quot; title=&quot;谈一谈买车的故事&quot;&gt;&lt;/a&gt;谈一谈买车的故事&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;略&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;注意事项&quot;&gt;&lt;a href=&quot;#注意事
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>如何搞乱一次业主大会</title>
+    <link href="http://yoursite.com/2018/06/03/%E5%A6%82%E4%BD%95%E6%90%9E%E4%B9%B1%E4%B8%80%E6%AC%A1%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A/"/>
+    <id>http://yoursite.com/2018/06/03/%E5%A6%82%E4%BD%95%E6%90%9E%E4%B9%B1%E4%B8%80%E6%AC%A1%E4%B8%9A%E4%B8%BB%E5%A4%A7%E4%BC%9A/</id>
+    <published>2018-06-03T13:08:32.000Z</published>
+    <updated>2018-06-03T13:08:52.614Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="如何搞乱一次业主大会"><a href="#如何搞乱一次业主大会" class="headerlink" title="如何搞乱一次业主大会"></a>如何搞乱一次业主大会</h1><h2 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h2><ol><li>小区品质差，开发商遗留了大量工程质量问题；</li><li>物业不作为，包括在服务的专业性，解决遗留问题上的态度，财务费用的不透明方面。从我的角度来看，就是垃圾物业的典型了。</li><li>由于开发商工程中偷工减料，出现一住户家里面污水倒灌，在居委会、业委会、物管、开发商、住户等的诡异协调下，进而演化出一出未经业主同意动用大修基金的事情，最后变成了责任不明确，处理不清晰透明的事情。</li><li>前段时期，业委会贴出更换物管的相关通告。启动更换物业的事宜。</li><li>鉴于此，物管随后开始挨家挨户摸底，做思想工作，灌输思想。</li></ol><h2 id="业主大会"><a href="#业主大会" class="headerlink" title="业主大会"></a>业主大会</h2><ol><li>今天是2018.6.3日，业委会牵头更换物管，开启动牵头大会；本来是件简单的事情，出现了围攻业委会成员的事情。现场一片混乱。</li><li>主要围绕业委会随意动用业主大修基金。一群人开始围攻，看起来更细是事前安排好的。本来是物管动用了大修基金，被硬生生的安在了业委会的头上。改变了舆论导向。大会是开不下去了。现场乱作一团。中心围着的是业委会的人，围着业委会的是那些强势的“业主”，再是看热闹各自讨论的业主，互相表达的彼此的看法。最外面的是保安和物业的那班人，还有那些围在他们周边的人，每个人都在不停的表达，各怀鬼胎，各自装着各自的心思。</li><li>看到那些称赞物业好的人气的青筋暴起，简直可笑。看着那些受害的业主，声嘶力竭。可又有什么办法呢，都有人拍桌子，站在桌子上了，一看就不是什么善茬。哎，孤立无援的业委会，看着好可伶，可是又有多少人能帮他们说句话呢，在外围看了很久，也思索了一下，觉得真是可怕。</li><li>哎，可悲。</li><li>哎，可聊。</li><li>想要一个好小区，觉得这世界真是复杂。人心是那么的可怜。</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;如何搞乱一次业主大会&quot;&gt;&lt;a href=&quot;#如何搞乱一次业主大会&quot; class=&quot;headerlink&quot; title=&quot;如何搞乱一次业主大会&quot;&gt;&lt;/a&gt;如何搞乱一次业主大会&lt;/h1&gt;&lt;h2 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>31</title>
+    <link href="http://yoursite.com/2016/06/29/31/"/>
+    <id>http://yoursite.com/2016/06/29/31/</id>
+    <published>2016-06-29T13:22:40.000Z</published>
+    <updated>2016-06-29T14:01:56.068Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="I-am-31-years-old"><a href="#I-am-31-years-old" class="headerlink" title="I am 31 years old"></a>I am 31 years old</h2><p><img src="https://c7.staticflickr.com/8/7367/27945244006_8c1727b6fe_b.jpg" alt="新家快快装修完吧"><br>1、天将降大任于斯人也，必先苦其心志，劳其筋骨，饿其体肤，空乏其身，行拂乱其所为也，所以动心忍性，增益其所不能。–孟子。赠与自己，愿自己能脱胎换骨。愿这段“黑暗”的生活快点过去，也相信自己能处理好。<br>2、不要惹JunJun冒火，做事果敢点。<br>3、求婚——领证——结婚——拍照——蜜月旅行。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;I-am-31-years-old&quot;&gt;&lt;a href=&quot;#I-am-31-years-old&quot; class=&quot;headerlink&quot; title=&quot;I am 31 years old&quot;&gt;&lt;/a&gt;I am 31 years old&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>ACP</title>
+    <link href="http://yoursite.com/2016/05/25/ACP/"/>
+    <id>http://yoursite.com/2016/05/25/ACP/</id>
+    <published>2016-05-25T12:04:47.000Z</published>
+    <updated>2016-05-27T23:46:28.742Z</updated>
+    
+    <content type="html"><![CDATA[<p>1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：</p><ul><li>铺层类型：C-纯玻璃钢铺层；S-三明治铺层。</li><li>铺层厚度：5、10、15、20等。</li><li>法线方向：CHAOZUO：朝左、CHAOYOU：朝后、CHAOQIAN：朝前、CHAOHOU：朝后、CHAOSHANG：朝上、CHAOXIA：朝下。//当然还有其他分法。</li><li>零部件名称：ZUOCZ1:左上侧罩第一部分；</li><li>序号：1、2、3……</li><li>综合命名：CHAOYOU_C10_ZUOCZ1_1</li></ul><p>2、 ACP里面最关键的几个设置，shell的法线和主方向，shell的铺层信息。第1条的命名主要是为了脚本识别信息的方便。通过验证，以上命名通过正则表达式可以顺利实现comp的分类和设置。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">import complex</span><br><span class="line">db = model.activemodel</span><br><span class="line">    ……</span><br></pre></td></tr></table></figure></p><p>3、检查，对每个方向和铺层信息进行更新和检查。对设置错误的进行调整。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1、通过梳理，为了便于使用脚本，需要对comp命名进行规范，以便进行脚本comp识别。需要包含的几个信息：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;铺层类型：C-纯玻璃钢铺层；S-三明治铺层。&lt;/li&gt;
+&lt;li&gt;铺层厚度：5、10、15、20等。&lt;/li&gt;
+&lt;li&gt;法线方向：CHAOZU
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Just for you</title>
+    <link href="http://yoursite.com/2016/05/22/Just-for-you/"/>
+    <id>http://yoursite.com/2016/05/22/Just-for-you/</id>
+    <published>2016-05-22T08:49:06.000Z</published>
+    <updated>2016-05-22T11:06:12.379Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I-Love-You-JunJun"><a href="#I-Love-You-JunJun" class="headerlink" title="I Love You, JunJun."></a>I Love You, JunJun.</h1><p>Only is one of your clothes brand.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;I-Love-You-JunJun&quot;&gt;&lt;a href=&quot;#I-Love-You-JunJun&quot; class=&quot;headerlink&quot; title=&quot;I Love You, JunJun.&quot;&gt;&lt;/a&gt;I Love You, JunJun.&lt;/h1&gt;&lt;p&gt;Only i
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
